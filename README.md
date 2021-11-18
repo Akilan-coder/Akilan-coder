@@ -1,7 +1,6 @@
 ## **Hey there!🙋‍♂️ I'm Akilan and Welcome to my profile :)**
+---
 <img src="http://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
-<br>
-
 ###  I'm a web dev enthusiast, currently trying to learn the ins and outs of web development and open source development.
 
 >### I'm also interested in:
